@@ -1,0 +1,31 @@
+[{
+    "URN": 135691,
+    "localAuthorityCode": 938,
+    "localAuthorityName": "West Sussex",
+    "schoolCode": 6228,
+    "name": "Seadown School",
+    "capacity": 30,
+    "postCode": "BN11 2BE",
+    "lat": "50.81383",
+    "long": "-0.36041"
+}, {
+    "URN": 112080,
+    "localAuthorityCode": 908,
+    "localAuthorityName": "Cornwall",
+    "schoolCode": 6084,
+    "name": "St Ia School",
+    "capacity": 45,
+    "postCode": "TR26 2SF",
+    "lat": "50.19372",
+    "long": "-5.46602"
+}, {
+    "URN": 138457,
+    "localAuthorityCode": 304,
+    "localAuthorityName": "Brent",
+    "schoolCode": 4006,
+    "name": "Wembley High Technology College",
+    "capacity": 1330,
+    "postCode": "HA0 3NT",
+    "lat": "50.19372",
+    "long": "-5.46602"
+}]
